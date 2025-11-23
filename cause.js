@@ -6,12 +6,12 @@
         gif: "gif1.gif"
     },
     { 
-        text: "May your day be filled with love, laughter, and endless joy. 🌸 ", 
+        text: "May our relationship be filled with love, laughter, and endless joy. 🌸 ", 
         emoji: "💗",
         gif: "gif2.gif"
     },
     { 
-        text: "Wishing you success, happiness, and everything your heart desires. ✨ ", 
+        text: "I hope you continue to love me and choose me ✨ ", 
         emoji: "💕",
         gif: "gif1.gif"
     },
@@ -145,4 +145,5 @@ document.addEventListener('mousemove', (e) => {
 });
 
 // Create initial floating elements
+
 setInterval(createFloatingElement, 2000);
